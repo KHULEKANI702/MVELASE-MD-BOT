@@ -11,7 +11,7 @@ cmd({
     filename: __filename,
 },
 async (conn, mek, m, { from, reply }) => {
-    const githubRepoURL = 'https://github.com/khulekanidube/MVELASE-MD-BOT';
+    const githubRepoURL = 'https://github.com/KHULEKANI702/MVELASE-MD-BOT';
 
     try {
         // Extract username and repo name from the URL
@@ -35,7 +35,7 @@ async (conn, mek, m, { from, reply }) => {
 
 > 𝐃𝐎𝐍'𝐓 𝐅𝐎𝐑𝐆𝐄𝐑𝐓 𝐓𝐎 𝐒𝐓𝐀𝐑 𝐀𝐍𝐃 𝐅𝐎𝐑𝐊 𝐓𝐇𝐄 𝐑𝐄𝐏𝐎🌟🍴
 
-> https://github.com/khulekanidube/MVELASE-MD-BOT
+> https://github.com/KHULEKANI702/MVELASE-MD-BOT
 
 > ──────────────────
 ${readMore}
