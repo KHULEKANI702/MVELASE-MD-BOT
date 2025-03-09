@@ -65,7 +65,7 @@ cmd({
     const packageName = require('../package.json');
     const currentVersion = packageName.version;
 
-    const apiUrl = 'https://raw.githubusercontent.com/khulekanidube/Mvelase-MD/master/package.json';
+    const apiUrl = 'https://raw.githubusercontent.com/KHULEKANI702/MVELASE-MD-BOT/master/package.json';
     const response = await axios.get(apiUrl);
     const data = response.data;
     const latestVersion = data.version;
