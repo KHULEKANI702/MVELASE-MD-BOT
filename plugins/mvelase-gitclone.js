@@ -55,7 +55,7 @@ cmd({
         forwardingScore: 999,
         isForwarded: true,
         forwardedNewsletterMessageInfo: {
-          newsletterJid: '120363334594240793@newsletter',
+          newsletterJid: '120363411325763461@newsletter',
           newsletterName: 'Mvelase Technology',
           serverMessageId: 143
         }
