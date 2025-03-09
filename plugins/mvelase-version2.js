@@ -27,7 +27,7 @@ cmd({
     }
 
     // Fetch latest version data from GitHub
-    const rawVersionUrl = 'https://raw.githubusercontent.com/khulekanidube/MVELASE-MD-BOT/main/data/mvelase-version2.json';
+    const rawVersionUrl = 'https://raw.githubusercontent.com/KHULEKANI702/MVELASE-MD-BOT/main/data/mvelase-version2.json';
     let latestVersion = 'Unknown';
     let latestChangelog = 'No changelog available.';
     try {
@@ -53,7 +53,7 @@ cmd({
     const lastUpdate = fs.statSync(localVersionPath).mtime.toLocaleString();
 
     // GitHub stats
-    const githubRepo = 'https://github.com/khulekanidube/MVELASE-MD-BOT';
+    const githubRepo = 'https://github.com/KHULEKANI702/MVELASE-MD-BOT';
 
     // Check update status
     let updateMessage = `*✅ 𝐘𝐎𝐔𝐑 𝐌𝐕𝐄𝐋𝐀𝐒𝐄-𝐌𝐃-𝐁𝐎𝐓 𝐈𝐒 𝐔𝐏-𝐓𝐎-𝐃𝐀𝐓𝐄!*`;
@@ -81,7 +81,7 @@ cmd({
         isForwarded: true,
         forwardedNewsletterMessageInfo: {
           newsletterJid: '120363334594240793@newsletter',
-          newsletterName: 'Mvelase Technology,
+          newsletterName: 'Mvelase Technology'
           serverMessageId: 143
         }
       }
