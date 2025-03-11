@@ -35,8 +35,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
                 isForwarded: true,
                 forwardedNewsletterMessageInfo: {
                     newsletterJid: '120363334594240793@newsletter',
-                    newsletterName: '⏤͟͟͞͞★͙≛͙⃝͙𝐌𝐕𝐄𝐋𝐀𝐒𝐄-𝐌𝐃-𝐁𝐎𝐓🍁᭄
-   ​    ​    ​    ​ ',
+                    newsletterName: '𝐌𝐕𝐄𝐋𝐀𝐒𝐄-𝐌𝐃-𝐁𝐎𝐓🍁',
                     serverMessageId: 143
                 }
             }
