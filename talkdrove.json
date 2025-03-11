@@ -106,8 +106,8 @@
         
       },
       "PREMIUM_USERS": {
-        "description": "There are some commands which can only be used by the premium users, put premium users number without +, multiple numbers can be seperated by comma (,) (e.g, 923072380xxx, or 923072380xx,9234538003xx)",
-        "value":"972",
+        "description": "There are some commands which can only be used by the premium users, put premium users number without +, multiple numbers can be seperated by comma (,) (e.g, 263717777643,263711337094)",
+        "value":"263",
         "required": false
         
       }
