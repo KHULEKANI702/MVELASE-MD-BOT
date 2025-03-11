@@ -67,8 +67,7 @@ ${readMore}
                 isForwarded: true,
                 forwardedNewsletterMessageInfo: {
                     newsletterJid: '120363411325763461@newsletter',
-                    newsletterName: '⏤͟͟͞͞★͙≛͙⃝͙𝐌𝐕𝐄𝐋𝐀𝐒𝐄-𝐌𝐃-𝐁𝐎𝐓🍁᭄
-   ​    ​    ​    ​ ',
+                    newsletterName: '𝐌𝐕𝐄𝐋𝐀𝐒𝐄-𝐌𝐃-𝐁𝐎𝐓🍁',
                     serverMessageId: 143
                 }
             }
@@ -85,8 +84,7 @@ ${readMore}
                 isForwarded: true,
                 forwardedNewsletterMessageInfo: {
                     newsletterJid: '120363411325763461@newsletter',
-                    newsletterName: '⏤͟͟͞͞★͙≛͙⃝͙𝐌𝐕𝐄𝐋𝐀𝐒𝐄-𝐌𝐃-𝐁𝐎𝐓🍁᭄
-   ​    ​    ​    ​ ',
+                    newsletterName: '𝐌𝐕𝐄𝐋𝐀𝐒𝐄-𝐌𝐃-𝐁𝐎𝐓🍁',
                     serverMessageId: 143
                 }
             }
