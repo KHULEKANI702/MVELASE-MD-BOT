@@ -1,7 +1,7 @@
 
 {
     "bot-name": "MVELASE-MD",
-    "description": "MVELASE-MD-BOT made for people on Earth",
+    "description": "Advanced WhatsApp Bot Coded By Mvelase Technology",
     "logo": "https://files.catbox.moe/8ub6ps.png",
     "keywords": ["bot"],
     "documentation-link": "https://betapair.onrender.com/",
@@ -9,7 +9,7 @@
   
     "env": {
       "SESSION_ID": {
-        "description": "Put your SESSION_ID here. Make sure it starts with Byte;;;, or get session id from here, https://session.talkdrove.com",
+        "description": "Put your SESSION_ID here. Make sure it starts with Mvelase;;;, or get session id from here, https://betapair.onrender.com",
         "value":"",
         "required": true
         
