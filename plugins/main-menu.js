@@ -21,15 +21,15 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
 ┗─────────────────┈⊷
 ┏────────━━───────┈⊷
 
-│• 📜*𝐏𝐑𝐄𝐅𝐈𝐗* : *~*
-│• 🔊*𝐌𝐎𝐃𝐄* : *𝐩𝐮𝐛𝐥𝐢𝐜*
-│• 🏀*𝐁𝐀𝐈𝐋𝐄𝐘𝐒* : *𝐦𝐮𝐥𝐭𝐢-𝐝𝐞𝐯𝐢𝐜𝐞*
-│• 📝*𝐏𝐋𝐀𝐓𝐄𝐅𝐎𝐑𝐌* : *𝐥𝐢𝐧𝐮𝐱*
-│• ⏳️*𝐓𝐘𝐏𝐄* : *𝐍𝐨𝐝𝐞𝐣𝐬*
-│• 🏷*𝐁𝐎𝐓-𝐎𝐖𝐍𝐄𝐑* : *${config.OWNER_NAME}*
-│• 📼*𝐑𝐀𝐌-𝐔𝐒𝐀𝐆𝐄* : *${(process.memoryUsage().heapUsed / 1024 / 1024).toFixed(2)}𝐌𝐁 / ${Math.round(require('os').totalmem / 1024 / 1024)}𝐌𝐁*
-│• 🍁*𝐑𝐔𝐍𝐓𝐈𝐌𝐄-𝐔𝐏𝐓𝐈𝐌𝐄* :  *${runtime(process.uptime())}*
-│• 📚*𝐁𝐎𝐓-𝐕𝐄𝐑𝐒𝐈𝐎𝐍* : *3.0.0 𝐁𝐄𝐓𝐀*
+│• 📜𝐏𝐑𝐄𝐅𝐈𝐗 : ~
+│• 🔊𝐌𝐎𝐃𝐄 : 𝐩𝐮𝐛𝐥𝐢𝐜
+│• 🏀𝐁𝐀𝐈𝐋𝐄𝐘𝐒 : 𝐦𝐮𝐥𝐭𝐢-𝐝𝐞𝐯𝐢𝐜𝐞
+│• 📝𝐏𝐋𝐀𝐓𝐄𝐅𝐎𝐑𝐌 : 𝐥𝐢𝐧𝐮𝐱
+│• ⏳️𝐓𝐘𝐏𝐄 : 𝐍𝐨𝐝𝐞𝐣𝐬
+│• 🏷𝐁𝐎𝐓-𝐎𝐖𝐍𝐄𝐑 : ${config.OWNER_NAME}
+│• 📼𝐑𝐀𝐌-𝐔𝐒𝐀𝐆𝐄 : ${(process.memoryUsage().heapUsed / 1024 / 1024).toFixed(2)}𝐌𝐁 / ${Math.round(require('os').totalmem / 1024 / 1024)}𝐌𝐁
+│• 🍁𝐑𝐔𝐍𝐓𝐈𝐌𝐄-𝐔𝐏𝐓𝐈𝐌𝐄 :  ${runtime(process.uptime())}
+│• 📚𝐁𝐎𝐓-𝐕𝐄𝐑𝐒𝐈𝐎𝐍 : 3.0.0 𝐁𝐄𝐓𝐀
 ┗────────━━───────┈⊷
              
 ╭───❲ *𝐌𝐄𝐍𝐔.𝐋𝐈𝐒𝐓* ❳───☉
@@ -65,7 +65,8 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
                     isForwarded: true,
                     forwardedNewsletterMessageInfo: {
                         newsletterJid: '120363411325763461@newsletter',
-                        newsletterName: 'Mvelase Technology',
+                        newsletterName: '⏤͟͟͞͞★͙≛͙⃝͙𝐌𝐕𝐄𝐋𝐀𝐒𝐄-𝐌𝐃-𝐁𝐎𝐓🍁᭄
+   ​    ​    ​    ​ ',
                         serverMessageId: 143
                     }
                 }
@@ -138,7 +139,7 @@ async (conn, mek, m, { from, quoted, reply }) => {
                     isForwarded: true,
                     forwardedNewsletterMessageInfo: {
                         newsletterJid: '120363411325763461@newsletter',
-                        newsletterName: 'Mvelase Technology',
+                        newsletterName: '𝐌𝐕𝐄𝐋𝐀𝐒𝐄-𝐌𝐃-𝐁𝐎𝐓🍁᭄',
                         serverMessageId: 144
                     }
                 }
@@ -206,7 +207,8 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
                     isForwarded: true,
                     forwardedNewsletterMessageInfo: {
                         newsletterJid: '120363411325763461@newsletter',
-                        newsletterName: 'Mvelase Technology',
+                        newsletterName: '⏤͟͟͞͞★͙≛͙⃝͙𝐌𝐕𝐄𝐋𝐀𝐒𝐄-𝐌𝐃-𝐁𝐎𝐓🍁᭄
+   ​    ​    ​    ​ ',
                         serverMessageId: 143
                     }
                 }
@@ -286,7 +288,8 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
                     isForwarded: true,
                     forwardedNewsletterMessageInfo: {
                         newsletterJid: '120363411325763461@newsletter',
-                        newsletterName: 'Mvelase Technology',
+                        newsletterName: '⏤͟͟͞͞★͙≛͙⃝͙𝐌𝐕𝐄𝐋𝐀𝐒𝐄-𝐌𝐃-𝐁𝐎𝐓🍁᭄
+   ​    ​    ​    ​ ',
                         serverMessageId: 143
                     }
                 }
@@ -352,7 +355,8 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
                     isForwarded: true,
                     forwardedNewsletterMessageInfo: {
                         newsletterJid: '120363411325763461@newsletter',
-                        newsletterName: 'Mvelase Technology',
+                        newsletterName: '⏤͟͟͞͞★͙≛͙⃝͙𝐌𝐕𝐄𝐋𝐀𝐒𝐄-𝐌𝐃-𝐁𝐎𝐓🍁᭄
+   ​    ​    ​    ​ ',
                         serverMessageId: 143
                     }
                 }
@@ -423,7 +427,8 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
                     isForwarded: true,
                     forwardedNewsletterMessageInfo: {
                         newsletterJid: '120363411325763461@newsletter',
-                        newsletterName: 'Mvelase Technology',
+                        newsletterName: '⏤͟͟͞͞★͙≛͙⃝͙𝐌𝐕𝐄𝐋𝐀𝐒𝐄-𝐌𝐃-𝐁𝐎𝐓🍁᭄
+   ​    ​    ​    ​ ',
                         serverMessageId: 143
                     }
                 }
@@ -483,7 +488,8 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
                     isForwarded: true,
                     forwardedNewsletterMessageInfo: {
                         newsletterJid: '120363411325763461@newsletter',
-                        newsletterName: 'Mvelase Technology',
+                        newsletterName: '⏤͟͟͞͞★͙≛͙⃝͙𝐌𝐕𝐄𝐋𝐀𝐒𝐄-𝐌𝐃-𝐁𝐎𝐓🍁᭄
+   ​    ​    ​    ​ ',
                         serverMessageId: 143
                     }
                 }
@@ -549,7 +555,8 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
                     isForwarded: true,
                     forwardedNewsletterMessageInfo: {
                         newsletterJid: '120363411325763461@newsletter',
-                        newsletterName: 'Mvelase Technology',
+                        newsletterName: '⏤͟͟͞͞★͙≛͙⃝͙𝐌𝐕𝐄𝐋𝐀𝐒𝐄-𝐌𝐃-𝐁𝐎𝐓🍁᭄
+   ​    ​    ​    ​ ',
                         serverMessageId: 143
                     }
                 }
@@ -609,7 +616,8 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
                     isForwarded: true,
                     forwardedNewsletterMessageInfo: {
                         newsletterJid: '120363411325763461@newsletter',
-                        newsletterName: 'Mvelase Technology',
+                        newsletterName: '⏤͟͟͞͞★͙≛͙⃝͙𝐌𝐕𝐄𝐋𝐀𝐒𝐄-𝐌𝐃-𝐁𝐎𝐓🍁᭄
+   ​    ​    ​    ​ ',
                         serverMessageId: 143
                     }
                 }
@@ -678,7 +686,8 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
                     isForwarded: true,
                     forwardedNewsletterMessageInfo: {
                         newsletterJid: '120363411325763461@newsletter',
-                        newsletterName: 'Mvelase Technology',
+                        newsletterName: '⏤͟͟͞͞★͙≛͙⃝͙𝐌𝐕𝐄𝐋𝐀𝐒𝐄-𝐌𝐃-𝐁𝐎𝐓🍁᭄
+   ​    ​    ​    ​ ',
                         serverMessageId: 143
                     }
                 }
@@ -735,7 +744,8 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
                     isForwarded: true,
                     forwardedNewsletterMessageInfo: {
                         newsletterJid: '120363411325763461@newsletter',
-                        newsletterName: 'Mvelase Technology',
+                        newsletterName: '⏤͟͟͞͞★͙≛͙⃝͙𝐌𝐕𝐄𝐋𝐀𝐒𝐄-𝐌𝐃-𝐁𝐎𝐓🍁᭄
+   ​    ​    ​    ​ ',
                         serverMessageId: 143
                     }
                 }
