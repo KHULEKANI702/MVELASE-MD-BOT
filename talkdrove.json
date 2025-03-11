@@ -1,11 +1,11 @@
 
 {
-    "bot-name": "BYTE-MD",
-    "description": "BYTE-MD made for people on Earth",
-    "logo": "https://raw.githubusercontent.com/HyHamza/HyHamza/refs/heads/main/Images/XByte-logo.png",
+    "bot-name": "MVELASE-MD",
+    "description": "MVELASE-MD-BOT made for people on Earth",
+    "logo": "https://files.catbox.moe/8ub6ps.png",
     "keywords": ["bot"],
-    "documentation-link": "https://session.talkdrove.com",
-    "owner-verification":"talkdrove@gmail.com",
+    "documentation-link": "https://betapair.onrender.com/",
+    "owner-verification":"n.mvelaseproline@gmail.com",
   
     "env": {
       "SESSION_ID": {
@@ -33,8 +33,8 @@
         
       },
       "OWNER_NUMBER": {
-        "description": "OWNER_NUMBER with country code (e.g, 9230723xxxxx)",
-        "value":"923072380xxxx",
+        "description": "OWNER_NUMBER with country code (e.g, 263717777643)",
+        "value":"263717777643",
         "required": true
         
       },
@@ -100,8 +100,8 @@
         
       },
       "COUNTRY_BLOCK_CODE": {
-        "description": "Block by country code put country code without + (e.g, 972)",
-        "value":"972",
+        "description": "Block by country code put country code without + (e.g, 263)",
+        "value":"263",
         "required": false
         
       },
